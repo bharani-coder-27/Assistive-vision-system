@@ -1,0 +1,6 @@
+openai
+opencv-python
+numpy
+tensorflow
+pyttsx3
+SpeechRecognition
